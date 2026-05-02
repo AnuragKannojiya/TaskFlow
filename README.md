@@ -258,9 +258,9 @@ Suggested preview:
 
 **Anurag**
 
-- GitHub: `https://github.com/your-username`
-- LinkedIn: `https://linkedin.com/in/your-profile`
-- Email: `your-email@example.com`
+- GitHub: `https://github.com/AnuragKannojiya`
+- LinkedIn: `https://linkedin.com/in/anurag4978`
+- Email: `anuragkannaujiyak@gmail.com`
 
 ## License
 
